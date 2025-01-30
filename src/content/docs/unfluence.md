@@ -1,6 +1,6 @@
 ---
-title: Unfluencer
-description: A social media personality that doesn't want your money.
+title: Unfluencer Pact
+description: An approach to social media presence that doesn't involve money.
 ---
 
 Unfluencers are social media personalities that are not interested in your money, data, praise, or attention. A social media unfluencer may recommend products and services but will never ask for monetary support either directly or indirectly. A social media unfluencer is interested in your well being and is self aware enough to admit that their life philosophy is not universally applicable.

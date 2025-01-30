@@ -1,0 +1,17 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["drishti", "unfluence", "unfluencer", "unfluencers", "unoptimized"],
+  "ignoreWords": ["eamodio", "dbaeumer", "esbenp", "sonarjs"],
+  "flagWords": ["hte"],
+  "allowCompoundWords": true,
+  "ignorePaths": [
+    "**/node_modules/**",
+    "**/dist/**",
+    "*.svg",
+    "*.lock",
+    "cspell.json",
+    ".gitignore",
+    "CHANGELOG.md"
+  ]
+}

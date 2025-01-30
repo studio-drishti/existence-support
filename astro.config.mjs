@@ -15,11 +15,14 @@ export default defineConfig({
       sidebar: [
         {
           label: "Start Here",
-          items: [{ label: "Manifesto", slug: "manifesto" }],
+          items: [
+            { label: "Manifesto", slug: "manifesto" },
+            { label: "Unfluencer Pact", slug: "unfluence" },
+          ],
         },
         {
-          label: "Reference",
-          autogenerate: { directory: "reference" },
+          label: "Guides",
+          items: ["guides/feed-yourself"],
         },
       ],
     }),
