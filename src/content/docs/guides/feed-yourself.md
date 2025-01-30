@@ -26,3 +26,12 @@ Now we only have dinner to contend with. Which brings me to...
 ## Myth Three: Cooking is Hard
 
 I often say that cooking is the one thing you have to do. So you might as well make it fun. Put on some music, make yourself a cocktail, and seek out recipes that you are excited to try. Look for recipes in books, not online or your own imagination. I thought I was a good cook until I started using cookbooks more regularly. I'm a big fan of recipe books written by restaurateurs because they often teach you how to batch your meals. That's the secret to cooking twice a week: make your meals in quantity or batch certain parts of it. If you're making a simple meal one night, you might have the bandwidth to make a sauce for another recipe and freeze it for later. You want your freezer to be stocked with sauces and ready made meals so that the majority of the week is spent enjoying your leftovers.
+
+## Summary
+
+- Start intermittent fasting and eliminate breakfast.
+- Eat a light, simple, predictable lunch.
+- Unplug the microwave; it destroys leftovers.
+- Treat your leftovers with respect. That is a dinner you don't have to cook.
+- Find a way to enjoy cooking. It's the one thing you have to do.
+- Build a library of cookbooks. Avoid internet recipes.
