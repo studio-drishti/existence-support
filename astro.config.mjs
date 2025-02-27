@@ -21,10 +21,41 @@ export default defineConfig({
           ],
         },
         {
-          label: "Guides",
-          items: ["guides/feed-yourself"],
+          label: "Physiological Needs",
+          autogenerate: { directory: "physiological" },
         },
+        // {
+        //   label: "Safety Needs",
+        //   autogenerate: { directory: "safety" },
+        // },
+        // {
+        //   label: "Belonging & Love Needs",
+        //   autogenerate: { directory: "belonging" },
+        // },
+        {
+          label: "Esteem Needs",
+          autogenerate: { directory: "esteem" },
+        },
+        // {
+        //   label: "Cognitive Needs",
+        //   autogenerate: { directory: "cognitive" },
+        // },
+        // {
+        //   label: "Aesthetic Needs",
+        //   autogenerate: { directory: "aesthetic" },
+        // },
+        {
+          label: "Self-Actualization",
+          autogenerate: { directory: "self-actualization" },
+        },
+        // {
+        //   label: "Transcendence",
+        //   autogenerate: { directory: "transcendence" },
+        // },
       ],
     }),
   ],
+  redirects: {
+    "/guides/feed-yourself": "/physiological/feed-yourself",
+  },
 });
